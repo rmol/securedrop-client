@@ -2,15 +2,6 @@
     border-bottom: 1px solid #9b9b9b;
 }
 
-#SourceWidget_gutter {
-    min-width: 40px;
-    max-width: 40px;
-}
-
-#SourceWidget_metadata {
-    max-width: 60px;
-}
-
 #SourceWidget_preview {
     font-family: 'Source Sans Pro';
     font-weight: 400;
@@ -37,6 +28,13 @@
     font-weight: 500;
     font-size: 13px;
     color: #383838;
+}
+
+#SourceWidget_name_selected {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 13px;
+    color: #2a319d;
 }
 
 #SourceWidget_name_unread {
